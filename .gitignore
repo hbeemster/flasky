@@ -46,4 +46,4 @@ venv
 .env-mysql
 /.idea/$CACHE_FILE$
 /.idea/
-/env/
+*.env
