@@ -1,5 +1,5 @@
 Setup your config here.
 
-Add a .env file here to set the ENVIRONMENT VARIABLES used in the application.
+Add an .env file here to set the ENVIRONMENT VARIABLES used in the application.
 
 For security reasons the all .env file are ignored by git
